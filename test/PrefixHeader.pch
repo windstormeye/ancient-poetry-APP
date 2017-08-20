@@ -11,5 +11,7 @@
 
 #import "constant.h"
 #import "SVProgressHUD.h"
+#import <BmobSDK/Bmob.h>
+
 
 #endif /* PrefixHeader_pch */

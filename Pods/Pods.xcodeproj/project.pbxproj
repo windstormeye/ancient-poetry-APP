@@ -10,6 +10,145 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+		<key>00297BFC9384FB9586DE77CB2B548822</key>
+		<dict>
+			<key>fileRef</key>
+			<string>02567C4129A2FC170BFD4DACE1F3BC6F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>01951E33CBC17EFFD4170691DD46614B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQUIView+Hierarchy.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIView+Hierarchy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>01BB906991288D7F0EC0B7ED6698AA28</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C1F4EB46BAE4697D38EDA46FB597A4C1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>02567C4129A2FC170BFD4DACE1F3BC6F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQToolbar.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQToolbar.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>040D682DA5D305C7B7B8ABC17BB949FB</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>FCACF77CE30E207A5D291A4823CA4BCD</string>
+				<string>B1C5CE906AB01E1DF9B3FA81EF692C12</string>
+				<string>01BB906991288D7F0EC0B7ED6698AA28</string>
+				<string>3C673D67DCB6E77170B91EC33F40F3CA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>0520B7A8C8A82D2B083FB832FD505BF2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D45B604668D0E02A7A4B471A371B974B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>054527EDD824857E8450741CA2D8EC11</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQKeyboardManager.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQKeyboardManager.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>075840B3C80BC1C508132F8A0D089A6E</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>3DA351DB5FA9CB6CE66839E2B238A422</string>
+			<key>remoteInfo</key>
+			<string>SVProgressHUD</string>
+		</dict>
+		<key>0993A442FD2A07085E47E1257B4CEF41</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQUIScrollView+Additions.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIScrollView+Additions.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0B6620F03D38804837CFD8B7056C3CC7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>archive.ar</string>
+			<key>name</key>
+			<string>libWeChatSDK.a</string>
+			<key>path</key>
+			<string>OpenSDK1.7.9/libWeChatSDK.a</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>0B9FD819817BB17778B8CE481771ECFB</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -23,58 +162,82 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0F497BDA6E80F710075D1A3BD87D2735</key>
+		<key>0BC002076C94F0DE97F2932A137D0DC0</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C1EEB3782DA34A9FC1FF41E49E089B7C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
-				<string></string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string></string>
-				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
-				<string></string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.2</string>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
+			<key>children</key>
+			<array>
+				<string>1931368512C9B150D40B069CB8E14889</string>
+			</array>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Release</string>
+			<string>BmobSDK</string>
+			<key>path</key>
+			<string>BmobSDK</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>21192FF10F8022CD9C112C580D3BE60F</key>
+		<key>0D8EF2301073B01E30612B5B1BD94446</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreGraphics.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/CoreGraphics.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>12102063C8CC6519F8D4E631DB9A58DA</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>6156041EC1393FAB04D23A700C38F032</string>
+				<string>A17252BD139ED8D23A42EE63E4503C03</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>14B8B9B15ECBE87983FF987239AB2D7B</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2691F93227E549B2A03FB9E6D0C3C623</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1931368512C9B150D40B069CB8E14889</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>AC990BE3AEE51C2369322EBB0344000A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>19990C51A1961C4B0C317B703E5B862C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D45B604668D0E02A7A4B471A371B974B</string>
+			<string>01951E33CBC17EFFD4170691DD46614B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>21FB61F105F14697C3E097105710297A</key>
+		<key>1BDFFBD66E1BED93B4240EA3B5D53856</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -83,20 +246,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>WXApi.h</string>
+			<string>IQUIView+IQKeyboardToolbar.h</string>
 			<key>path</key>
-			<string>OpenSDK1.7.9/WXApi.h</string>
+			<string>IQKeyboardManager/IQToolbar/IQUIView+IQKeyboardToolbar.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>24E15FBF7FC8F7D7845C9EE8FA8CEED0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A9E81E735993BC756FD3C6B212A6005D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>26A52E293F7697FDE54D7B623E806839</key>
+		<key>205B5A2F96592ABADFBBE0273CF6ABAC</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -105,13 +261,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>SVProgressHUD.m</string>
+			<string>IQKeyboardReturnKeyHandler.m</string>
 			<key>path</key>
-			<string>SVProgressHUD/SVProgressHUD.m</string>
+			<string>IQKeyboardManager/IQKeyboardReturnKeyHandler.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>26AE347B1336580EDFEF68FBFD613A62</key>
+		<key>20A3FD0B73DAB714E715C31637A8232F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -120,27 +276,140 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>WechatAuthSDK.h</string>
+			<string>IQKeyboardManagerConstantsInternal.h</string>
 			<key>path</key>
-			<string>OpenSDK1.7.9/WechatAuthSDK.h</string>
+			<string>IQKeyboardManager/Constants/IQKeyboardManagerConstantsInternal.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2ADA94D801D246EEF282A0BA19078703</key>
+		<key>20EB5197EFA38D701F5695D2D9A07996</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>38DAD06EC211F35C6B9BB446C8B0CA3B</string>
-				<string>B8A411F1558E59CCEB69377717A80F39</string>
+				<string>B6B433A2C7383368A89EAA70B90DF4AF</string>
+				<string>31FC5DBED49CF43808E3603EBC189A9C</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>23B294E95D885CBE71DA0F4C95FF0117</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQToolbar.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQToolbar.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>23B6A4EFD01F6770F25C826E3F8A89ED</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQUIViewController+Additions.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIViewController+Additions.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2452BE0639FF16F7D29FE07176A526F2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>20A3FD0B73DAB714E715C31637A8232F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>245531C999437DA0FDA7F5B207448CE5</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>3797AE43D2E2F957B67D9C010895E272</string>
+				<string>4BEB68945FC48B603B45BC5ED7817EA2</string>
+				<string>E3E166FAE831A58C369A281C9244D7E2</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/SVProgressHUD</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2C0F1628F187707ABBBE560C8510D487</key>
+		<key>2691F93227E549B2A03FB9E6D0C3C623</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>0D8EF2301073B01E30612B5B1BD94446</string>
+				<string>6647ACC906E3FCEEFF3813BB32B1FCF6</string>
+				<string>51498E299B7CB17BCC8B54F93C150FAA</string>
+				<string>EC1FD743D031D373EDF29CC526F758E2</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>29A8250B5D34E4C96E184D683E5056AE</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>0BC002076C94F0DE97F2932A137D0DC0</string>
+				<string>FBAED49CC7E185CD9FCA704362CD9895</string>
+				<string>C3DA93A8507C0B521B0F35E5EF537E1B</string>
+				<string>39DA7CB061DB4B99AC87610C5CF4F4AB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2A098C4CDEB46E3ACBD31BED761FBF50</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>IQKeyboardManager.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2B693038E97BEA8C0B4D81F59AB1B04D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>ED98BFDE34A7F91DCBA7097E611AC512</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2C1CC5EFC47F05BE21D2816BC19C6CF2</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -154,19 +423,6 @@
 			<string>SVProgressHUD/SVIndefiniteAnimatedView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2D17CBFF6B6759CBF2DD62E33A3596ED</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>F2DC40A4B974473283E1035F44F6BFB0</string>
-			<key>remoteInfo</key>
-			<string>SVProgressHUD</string>
 		</dict>
 		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
 		<dict>
@@ -182,10 +438,54 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>3073803211D727BAF781E4D0A0B3CB8A</key>
+		<key>31FC5DBED49CF43808E3603EBC189A9C</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>2A098C4CDEB46E3ACBD31BED761FBF50</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
+				<string></string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf-with-dsym</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/IQKeyboardManager/IQKeyboardManager-prefix.pch</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>3270F63448EBCE942046C3C4C9605BE1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F1B89030F05ED857A6088494D0E32625</string>
+			<string>EFAC0C16DFF9A4045DAAF836FAD93BD0</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -196,53 +496,95 @@
 				</array>
 			</dict>
 		</dict>
-		<key>30741701D18DE80EB0AC06F146173A89</key>
+		<key>334A72CA88D119498A9142179D1261DE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>libWeChatSDK.a</string>
+			<string>IQKeyboardManager.h</string>
 			<key>path</key>
-			<string>OpenSDK1.7.9/libWeChatSDK.a</string>
+			<string>IQKeyboardManager/IQKeyboardManager.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>38DAD06EC211F35C6B9BB446C8B0CA3B</key>
+		<key>33D89B88F5CC620393076BA967363E31</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3AC5D9C5B838BE747D0154460D02F926</string>
+			<string>6647ACC906E3FCEEFF3813BB32B1FCF6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>39B42BE206C08FDFD7053E612263971B</key>
+		<key>34195D59105DDA261003C624FD9505DB</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>3DA3EA8153D0179CB665766525AE7EB9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>3AC5D9C5B838BE747D0154460D02F926</key>
-		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Foundation.framework</string>
+			<string>WXApiObject.h</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<string>OpenSDK1.7.9/WXApiObject.h</string>
 			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3797AE43D2E2F957B67D9C010895E272</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>SVProgressHUD.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>38D931D0448F591624C76CF8E41382ED</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4BEB68945FC48B603B45BC5ED7817EA2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>39DA7CB061DB4B99AC87610C5CF4F4AB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>3F988CA1068C8630C6FC448A6D325709</string>
+				<string>BB7171A5B726ABCA6F3BCE8B21188B5F</string>
+				<string>34195D59105DDA261003C624FD9505DB</string>
+				<string>51065953F5A84964C48E1D769EBFD868</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>WechatOpenSDK</string>
+			<key>path</key>
+			<string>WechatOpenSDK</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3A7A5A7BA2EDFEBEAAFA0480EAA2D255</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQPreviousNextView.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQPreviousNextView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>3ACD80C0FD674901062B9FD9971F6FB4</key>
 		<dict>
@@ -265,87 +607,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3DA3EA8153D0179CB665766525AE7EB9</key>
+		<key>3C673D67DCB6E77170B91EC33F40F3CA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3AC5D9C5B838BE747D0154460D02F926</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3DACD37E1A8C76C7934BC0F229F77A6A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>21192FF10F8022CD9C112C580D3BE60F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>433CD3331B6C3787F473C941B61FC68F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C7AB6F27FF3606F9360547F8F1977A63</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>44D46EFEA376DBAC5BFEDC6928127A79</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>F48B9F39523219405E65C1F3C64E36D7</string>
-				<string>0F497BDA6E80F710075D1A3BD87D2735</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>5000A219D9C0BE1BABD5876339EB3746</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.plug-in</string>
-			<key>name</key>
-			<string>SVProgressHUD.bundle</string>
-			<key>path</key>
-			<string>SVProgressHUD/SVProgressHUD.bundle</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5451BB59DA7E28ED353E61BA3EC46E61</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SVProgressAnimatedView.h</string>
-			<key>path</key>
-			<string>SVProgressHUD/SVProgressAnimatedView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>62E51BC4252FDC9B58A1FE5D32BEDCDC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5451BB59DA7E28ED353E61BA3EC46E61</string>
+			<string>C51596A6643E8EF81E1A8AC773768F01</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -355,6 +620,371 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>3DA351DB5FA9CB6CE66839E2B238A422</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>12102063C8CC6519F8D4E631DB9A58DA</string>
+			<key>buildPhases</key>
+			<array>
+				<string>46599538D5DA773154193D433B896E47</string>
+				<string>6DBD3EBC16EA383D1913BA44A88E4BF6</string>
+				<string>040D682DA5D305C7B7B8ABC17BB949FB</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>SVProgressHUD</string>
+			<key>productName</key>
+			<string>SVProgressHUD</string>
+			<key>productReference</key>
+			<string>C9CB1EF2BE8E79AB5086A5628EC1A2DB</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>3F988CA1068C8630C6FC448A6D325709</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>WechatAuthSDK.h</string>
+			<key>path</key>
+			<string>OpenSDK1.7.9/WechatAuthSDK.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>41FFD36DB0D327EE93CA8C92F579140C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6196F3AECA5882259243B6D9332AE528</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>46599538D5DA773154193D433B896E47</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>F719DE1D12272EDBBC7ADCD8F9B549ED</string>
+				<string>F69B6807BD898A24924CE12CEB95FE94</string>
+				<string>38D931D0448F591624C76CF8E41382ED</string>
+				<string>B9D8EF4072BD2D4984F8DCA1B96C13FF</string>
+				<string>A099045D7A493823367C6E92D75DFA72</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>481ABCD3F8106114B1630048037431B8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0993A442FD2A07085E47E1257B4CEF41</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>4BEB68945FC48B603B45BC5ED7817EA2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>SVProgressHUD-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4E8F5D530F9BE99DC0B359A7F5E76F55</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQUIViewController+Additions.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIViewController+Additions.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4F5B093D4A8B4E256E67F64C214F02FE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQUIView+Hierarchy.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIView+Hierarchy.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4FB0EFDA8DFB6ECBE6C57A8C0CFDB4CB</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>9BCF20404B7B7872D02E0F0BEACC2C09</string>
+			<key>buildPhases</key>
+			<array>
+				<string>86A5D7C9CD3E1F0B7ECEB66A2816E231</string>
+				<string>D6C13FA9CA31F2C0EB940B00C9A21C7A</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>B29ACF06A046365EEF3CA4BF68FD5278</string>
+				<string>FD78626328276DC4E4486E3717D4B811</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-test</string>
+			<key>productName</key>
+			<string>Pods-test</string>
+			<key>productReference</key>
+			<string>533A87F4A7175A580CEB437CAC2A104D</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>502499E7783E4600570A715ABE3028E5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQKeyboardReturnKeyHandler.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQKeyboardReturnKeyHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>50A8BE781CA45E78A9B34444D70457AE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQTitleBarButtonItem.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>51065953F5A84964C48E1D769EBFD868</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>0B6620F03D38804837CFD8B7056C3CC7</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>51498E299B7CB17BCC8B54F93C150FAA</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>QuartzCore.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/QuartzCore.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>533A87F4A7175A580CEB437CAC2A104D</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>libPods-test.a</string>
+			<key>path</key>
+			<string>libPods-test.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>563D57B8723AFAB62CC56C1D275A4760</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>IQKeyboardManager-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>56D7A19D65ACD2C0BDE4D7C7E352A935</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQTitleBarButtonItem.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6156041EC1393FAB04D23A700C38F032</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>3797AE43D2E2F957B67D9C010895E272</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
+				<string></string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/SVProgressHUD/SVProgressHUD-prefix.pch</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.0</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>6196F3AECA5882259243B6D9332AE528</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQUIWindow+Hierarchy.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIWindow+Hierarchy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>62FEC6489743A6411B7D59B2EE52191D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>054527EDD824857E8450741CA2D8EC11</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>660D32EF0D04F8988F864B04CEC28C66</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D3F24EEA279C8639587D8F26D5BE7A8D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>663F3244653A7B0C2E2F5309892636A2</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>20EB5197EFA38D701F5695D2D9A07996</string>
+			<key>buildPhases</key>
+			<array>
+				<string>E68202CFCBD027F28CFC3EA1BF9E0022</string>
+				<string>FC1D7EACA510CF6E302D0563BE364346</string>
+				<string>B8A9843987C250A9A16AE05A962FDDEE</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>IQKeyboardManager</string>
+			<key>productName</key>
+			<string>IQKeyboardManager</string>
+			<key>productReference</key>
+			<string>886C16A5CB86FE3DC61B73CC148775FA</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>6647ACC906E3FCEEFF3813BB32B1FCF6</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Foundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
 		</dict>
 		<key>673254EEAF0B5BF4596080C749645884</key>
 		<dict>
@@ -431,36 +1061,55 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>68787EB6201F2C4E0387497E425123EA</key>
+		<key>68E0E2AC4962B924DCBC59241CE5E13D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>71C7730C35CBBF892B62C59DBD22F57D</string>
+			<string>205B5A2F96592ABADFBBE0273CF6ABAC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>69A9170B901AC43ED223200C746968FF</key>
+		<key>6A028BB0EB8CC8E2E263CC4C1EADE839</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>B95DFA1D6379CF9FDFBFAA1ABF50C8DC</string>
-				<string>2C0F1628F187707ABBBE560C8510D487</string>
-				<string>5451BB59DA7E28ED353E61BA3EC46E61</string>
-				<string>71C7730C35CBBF892B62C59DBD22F57D</string>
-				<string>8A79B040A2809FB875905CDB93E583B6</string>
-				<string>26A52E293F7697FDE54D7B623E806839</string>
-				<string>F1B89030F05ED857A6088494D0E32625</string>
-				<string>E4E40D445DC06EC171904B6F17F91161</string>
-				<string>89AB66C7F5E10C2E436851F0C67BDF78</string>
-				<string>9288C1B8B72D9DB26B73145B29AD8841</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>SVProgressHUD</string>
+			<string>IQPreviousNextView.m</string>
 			<key>path</key>
-			<string>SVProgressHUD</string>
+			<string>IQKeyboardManager/IQToolbar/IQPreviousNextView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6B8F06ECBE83462670180EC61FDDCE7F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4F5B093D4A8B4E256E67F64C214F02FE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>6DBD3EBC16EA383D1913BA44A88E4BF6</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>C13F4E032C37F62E92761EBE2C08A2E2</string>
+				<string>D67A9414C2DAE033F2BECD671AB469B6</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>6E712744C6B7C203420AB9B20633AF4F</key>
 		<dict>
@@ -475,7 +1124,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>71C7730C35CBBF892B62C59DBD22F57D</key>
+		<key>711EF1B3397CD762C1EAE41FC7C9E35A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -484,57 +1133,97 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>SVProgressAnimatedView.m</string>
+			<string>IQUITextFieldView+Additions.m</string>
 			<key>path</key>
-			<string>SVProgressHUD/SVProgressAnimatedView.m</string>
+			<string>IQKeyboardManager/Categories/IQUITextFieldView+Additions.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>76D507AE23F675EC09841EEA0C944A62</key>
+		<key>7184DDA9BB2770375D415F75B6E55A10</key>
 		<dict>
 			<key>fileRef</key>
-			<string>26A52E293F7697FDE54D7B623E806839</string>
+			<string>EC4C07E486AFC002459EE57F1078C598</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>7256101FC68C1BACEF2312CF25D27B6F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AB17E4064BAB0C3C450706473D2E1698</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>7A1F581D09099B9D9CD6F6E02098AF64</key>
+		<key>727DB74A8AAAB919BCE196F2C74206BF</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>7C96C2371B3668EF37134339E0B897B6</string>
-				<string>69A9170B901AC43ED223200C746968FF</string>
-				<string>B676F80BEF68DC4860789F5D4BC877C8</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Pods</string>
+			<string>IQUIWindow+Hierarchy.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIWindow+Hierarchy.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7C96C2371B3668EF37134339E0B897B6</key>
+		<key>72DC2F852F9C8E1909932422E7020161</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>A02AB8D7C27FFB7CE68D9E97C5FBA16D</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>BmobSDK</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>BmobSDK</string>
+			<string>IQKeyboardManager-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7734FB779A4B2B9C03FD6DE003DA45BE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>502499E7783E4600570A715ABE3028E5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>7B62E996955EC0FD02F287AEEA63F964</key>
+		<dict>
+			<key>fileRef</key>
+			<string>334A72CA88D119498A9142179D1261DE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>7DB346D0F39D3F0E887471402A8071AB</key>
 		<dict>
 			<key>children</key>
 			<array>
 				<string>93A4A3777CF96A4AAC1D13BA6DCCEA73</string>
-				<string>433CD3331B6C3787F473C941B61FC68F</string>
-				<string>7A1F581D09099B9D9CD6F6E02098AF64</string>
-				<string>C7628D06144417730BB7DAC2DF372605</string>
+				<string>14B8B9B15ECBE87983FF987239AB2D7B</string>
+				<string>29A8250B5D34E4C96E184D683E5056AE</string>
+				<string>A7D5DDF9140822FCF892608CE4144994</string>
 				<string>7EAE4325D54CD56710EA21F842C59A53</string>
 			</array>
 			<key>isa</key>
@@ -555,10 +1244,106 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>83D0528D04E77783F7854E76BD4B5972</key>
+		<key>8085F02D38C0C48D3133E68636EE14FB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2A098C4CDEB46E3ACBD31BED761FBF50</string>
+				<string>563D57B8723AFAB62CC56C1D275A4760</string>
+				<string>72DC2F852F9C8E1909932422E7020161</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/IQKeyboardManager</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8402A6469214D1B5C72D9AC5F36D9DB4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8A79B040A2809FB875905CDB93E583B6</string>
+			<string>F973CBB7DD14DD97670D6AF6261F1FDF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>84B0C37A70A90710C5A87639107A11A3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F01826DA8310EE11C2392858BAF7DE0B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>86A5D7C9CD3E1F0B7ECEB66A2816E231</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>0520B7A8C8A82D2B083FB832FD505BF2</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>886C16A5CB86FE3DC61B73CC148775FA</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>libIQKeyboardManager.a</string>
+			<key>path</key>
+			<string>libIQKeyboardManager.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>8CA17B9E6C93839BE8869C0C790AF415</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQNSArray+Sort.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQNSArray+Sort.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D69D1FBF6D5DB4ED241206176256B71</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.plug-in</string>
+			<key>name</key>
+			<string>IQKeyboardManager.bundle</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Resources/IQKeyboardManager.bundle</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8F2365AAEBF04346330AEB4A0E8C0919</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0D8EF2301073B01E30612B5B1BD94446</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>90F4556A3969A60C9C9161966971512F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>23B6A4EFD01F6770F25C826E3F8A89ED</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -568,79 +1353,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>89AB66C7F5E10C2E436851F0C67BDF78</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5000A219D9C0BE1BABD5876339EB3746</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8A79B040A2809FB875905CDB93E583B6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SVProgressHUD.h</string>
-			<key>path</key>
-			<string>SVProgressHUD/SVProgressHUD.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8DA6A9689AB234C7EC3809BE786C5034</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>WXApiObject.h</string>
-			<key>path</key>
-			<string>OpenSDK1.7.9/WXApiObject.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>91124A5FFAE4C7C7F9C11EF34178C86C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>SVProgressHUD.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9288C1B8B72D9DB26B73145B29AD8841</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>91124A5FFAE4C7C7F9C11EF34178C86C</string>
-				<string>A9E81E735993BC756FD3C6B212A6005D</string>
-				<string>BF931F4B1B68C3F03633A563ABBDBAF3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/SVProgressHUD</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>93A4A3777CF96A4AAC1D13BA6DCCEA73</key>
 		<dict>
@@ -661,12 +1373,19 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>987E2E98E906B6AE69B28BAC3866E237</key>
+		<key>95AC7FD9F18610B95E2C708FB3D96123</key>
+		<dict>
+			<key>fileRef</key>
+			<string>23B294E95D885CBE71DA0F4C95FF0117</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9BCF20404B7B7872D02E0F0BEACC2C09</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>A6EC98AD07230A2348F4E056738723E8</string>
-				<string>BB03134D10B4641658AC4276FD5F48C3</string>
+				<string>D59155D95B9CCF13F9BF9632B0B33AA2</string>
+				<string>CBE62553116B5E1526A0871C345DECB3</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -675,10 +1394,10 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>98A2C9CF6B81F9EB16CF733CE100DCD6</key>
+		<key>9DDDE491C1A43856588206B4EF9E29C1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B95DFA1D6379CF9FDFBFAA1ABF50C8DC</string>
+			<string>1BDFFBD66E1BED93B4240EA3B5D53856</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -689,173 +1408,24 @@
 				</array>
 			</dict>
 		</dict>
-		<key>A02AB8D7C27FFB7CE68D9E97C5FBA16D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EEF526264214F87A7F80878AE638472A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A1CC1AC5AF4BAD42B6C63709C9FB9E82</key>
+		<key>A099045D7A493823367C6E92D75DFA72</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E4E40D445DC06EC171904B6F17F91161</string>
+			<string>B7932B201113195547DFA3B3E7C7F086</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>A6BDABE7E8FDA01C0A04ABD26064782B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>98A2C9CF6B81F9EB16CF733CE100DCD6</string>
-				<string>62E51BC4252FDC9B58A1FE5D32BEDCDC</string>
-				<string>83D0528D04E77783F7854E76BD4B5972</string>
-				<string>3073803211D727BAF781E4D0A0B3CB8A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A6EC98AD07230A2348F4E056738723E8</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>91124A5FFAE4C7C7F9C11EF34178C86C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
-				<string></string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string></string>
-				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
-				<string></string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/SVProgressHUD/SVProgressHUD-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>A9E81E735993BC756FD3C6B212A6005D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>SVProgressHUD-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B5EE14874AD9A2E45299FEB200101440</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>C69E7684FD87BDAB7078D7F4B772A7A0</string>
-				<string>68787EB6201F2C4E0387497E425123EA</string>
-				<string>24E15FBF7FC8F7D7845C9EE8FA8CEED0</string>
-				<string>76D507AE23F675EC09841EEA0C944A62</string>
-				<string>A1CC1AC5AF4BAD42B6C63709C9FB9E82</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B676F80BEF68DC4860789F5D4BC877C8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>26AE347B1336580EDFEF68FBFD613A62</string>
-				<string>21FB61F105F14697C3E097105710297A</string>
-				<string>8DA6A9689AB234C7EC3809BE786C5034</string>
-				<string>E080E73DA15F5BDDD231720A9440298A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>WechatOpenSDK</string>
-			<key>path</key>
-			<string>WechatOpenSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B8A411F1558E59CCEB69377717A80F39</key>
+		<key>A0DB3C4E05BE0ECFC9FFDE1CABE324C0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BACC64101FAE4862F8806DB02FC71B0E</string>
+			<string>50A8BE781CA45E78A9B34444D70457AE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>B95DFA1D6379CF9FDFBFAA1ABF50C8DC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SVIndefiniteAnimatedView.h</string>
-			<key>path</key>
-			<string>SVProgressHUD/SVIndefiniteAnimatedView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BACC64101FAE4862F8806DB02FC71B0E</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>QuartzCore.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/QuartzCore.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>BB03134D10B4641658AC4276FD5F48C3</key>
+		<key>A17252BD139ED8D23A42EE63E4503C03</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>91124A5FFAE4C7C7F9C11EF34178C86C</string>
+			<string>3797AE43D2E2F957B67D9C010895E272</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
@@ -896,6 +1466,225 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
+		<key>A7D5DDF9140822FCF892608CE4144994</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>886C16A5CB86FE3DC61B73CC148775FA</string>
+				<string>533A87F4A7175A580CEB437CAC2A104D</string>
+				<string>C9CB1EF2BE8E79AB5086A5628EC1A2DB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A928CF11D0D9954F3D27AD7641C47879</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SVProgressHUD.m</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVProgressHUD.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AB17E4064BAB0C3C450706473D2E1698</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQNSArray+Sort.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQNSArray+Sort.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AC990BE3AEE51C2369322EBB0344000A</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>path</key>
+			<string>BmobSDK.framework</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B1C5CE906AB01E1DF9B3FA81EF692C12</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CD9D143652AA3E8D6A9B42B400BEE136</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>B29ACF06A046365EEF3CA4BF68FD5278</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>IQKeyboardManager</string>
+			<key>target</key>
+			<string>663F3244653A7B0C2E2F5309892636A2</string>
+			<key>targetProxy</key>
+			<string>E5462D88711E7C398BB71FEAC4A9F3B0</string>
+		</dict>
+		<key>B2ED89BD8EEA47E43BF7A5BCA4FB3C68</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4E8F5D530F9BE99DC0B359A7F5E76F55</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B484F525AAFE33D26D99D985E5930654</key>
+		<dict>
+			<key>fileRef</key>
+			<string>51498E299B7CB17BCC8B54F93C150FAA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B6B433A2C7383368A89EAA70B90DF4AF</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>2A098C4CDEB46E3ACBD31BED761FBF50</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
+				<string></string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/IQKeyboardManager/IQKeyboardManager-prefix.pch</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>B6C201D867FDDA93B1B4D8ACEFEB771A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQBarButtonItem.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQBarButtonItem.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B7932B201113195547DFA3B3E7C7F086</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SVRadialGradientLayer.m</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVRadialGradientLayer.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B8A9843987C250A9A16AE05A962FDDEE</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>7184DDA9BB2770375D415F75B6E55A10</string>
+				<string>7B62E996955EC0FD02F287AEEA63F964</string>
+				<string>BFF5876A5E45C0F6E038B35199474814</string>
+				<string>2452BE0639FF16F7D29FE07176A526F2</string>
+				<string>7734FB779A4B2B9C03FD6DE003DA45BE</string>
+				<string>F8B00F72FD63B8C249E8B8C139EC3FF9</string>
+				<string>E09377111B4713C4E758E0C963CDFCBA</string>
+				<string>660D32EF0D04F8988F864B04CEC28C66</string>
+				<string>FC157493A9F9F05EF88B411D9126C006</string>
+				<string>00297BFC9384FB9586DE77CB2B548822</string>
+				<string>481ABCD3F8106114B1630048037431B8</string>
+				<string>3270F63448EBCE942046C3C4C9605BE1</string>
+				<string>6B8F06ECBE83462670180EC61FDDCE7F</string>
+				<string>9DDDE491C1A43856588206B4EF9E29C1</string>
+				<string>90F4556A3969A60C9C9161966971512F</string>
+				<string>CA445041F7B0E884C0824A8D9C08676D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>B9D8EF4072BD2D4984F8DCA1B96C13FF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A928CF11D0D9954F3D27AD7641C47879</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BB7171A5B726ABCA6F3BCE8B21188B5F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>WXApi.h</string>
+			<key>path</key>
+			<string>OpenSDK1.7.9/WXApi.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>BD64B9B40E979ACAFC5510851F892304</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -909,33 +1698,46 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BDE37FB3925E97D1AD69DDA390E84FD4</key>
+		<key>BF6904AF98E4776ADE28C10859D304D6</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
+			<key>children</key>
+			<array>
+				<string>C8C923D0A6BEA95B13BFECFEC39EC6FF</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>libSVProgressHUD.a</string>
-			<key>path</key>
-			<string>libSVProgressHUD.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>BF931F4B1B68C3F03633A563ABBDBAF3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>SVProgressHUD-prefix.pch</string>
+			<string>Resources</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BFF5876A5E45C0F6E038B35199474814</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F26D1056733267D4355D0A9FA151E503</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C13F4E032C37F62E92761EBE2C08A2E2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6647ACC906E3FCEEFF3813BB32B1FCF6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C155C1CAEB49E1FF5D0629A596F30DF3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EC1FD743D031D373EDF29CC526F758E2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>C1EEB3782DA34A9FC1FF41E49E089B7C</key>
 		<dict>
@@ -950,42 +1752,76 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C69E7684FD87BDAB7078D7F4B772A7A0</key>
+		<key>C1F4EB46BAE4697D38EDA46FB597A4C1</key>
 		<dict>
-			<key>fileRef</key>
-			<string>2C0F1628F187707ABBBE560C8510D487</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SVProgressHUD.h</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVProgressHUD.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C7628D06144417730BB7DAC2DF372605</key>
+		<key>C3DA93A8507C0B521B0F35E5EF537E1B</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>C8AFEECEFEF0A9A0DA653A8C0C19CB55</string>
-				<string>BDE37FB3925E97D1AD69DDA390E84FD4</string>
+				<string>E80A4484C93D8E797E6B1657B04D0228</string>
+				<string>2C1CC5EFC47F05BE21D2816BC19C6CF2</string>
+				<string>CD9D143652AA3E8D6A9B42B400BEE136</string>
+				<string>CB9B1F0249BE7B571BBC8796EE09FF7F</string>
+				<string>C1F4EB46BAE4697D38EDA46FB597A4C1</string>
+				<string>A928CF11D0D9954F3D27AD7641C47879</string>
+				<string>C51596A6643E8EF81E1A8AC773768F01</string>
+				<string>B7932B201113195547DFA3B3E7C7F086</string>
+				<string>BF6904AF98E4776ADE28C10859D304D6</string>
+				<string>245531C999437DA0FDA7F5B207448CE5</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Products</string>
+			<string>SVProgressHUD</string>
+			<key>path</key>
+			<string>SVProgressHUD</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C7AB6F27FF3606F9360547F8F1977A63</key>
+		<key>C51596A6643E8EF81E1A8AC773768F01</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>3AC5D9C5B838BE747D0154460D02F926</string>
-				<string>BACC64101FAE4862F8806DB02FC71B0E</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>iOS</string>
+			<string>SVRadialGradientLayer.h</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVRadialGradientLayer.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C8AFEECEFEF0A9A0DA653A8C0C19CB55</key>
+		<key>C8C923D0A6BEA95B13BFECFEC39EC6FF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.plug-in</string>
+			<key>name</key>
+			<string>SVProgressHUD.bundle</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVProgressHUD.bundle</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C9CB1EF2BE8E79AB5086A5628EC1A2DB</key>
 		<dict>
 			<key>explicitFileType</key>
 			<string>archive.ar</string>
@@ -994,11 +1830,128 @@
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>libPods-test.a</string>
+			<string>libSVProgressHUD.a</string>
 			<key>path</key>
-			<string>libPods-test.a</string>
+			<string>libSVProgressHUD.a</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>CA445041F7B0E884C0824A8D9C08676D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>727DB74A8AAAB919BCE196F2C74206BF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CB27604DFAFB72AA6EE852EF78D9EAAD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>563D57B8723AFAB62CC56C1D275A4760</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CB9B1F0249BE7B571BBC8796EE09FF7F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SVProgressAnimatedView.m</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVProgressAnimatedView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CBE62553116B5E1526A0871C345DECB3</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>C1EEB3782DA34A9FC1FF41E49E089B7C</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
+				<string></string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf-with-dsym</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>10.2</string>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
+				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>CBFE07CFC47298E99D2C4AC6C54AE648</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B6C201D867FDDA93B1B4D8ACEFEB771A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CD9D143652AA3E8D6A9B42B400BEE136</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SVProgressAnimatedView.h</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVProgressAnimatedView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D3F24EEA279C8639587D8F26D5BE7A8D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQTextView.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQTextView/IQTextView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D41D8CD98F00B204E9800998ECF8427E</key>
 		<dict>
@@ -1026,7 +1979,7 @@
 			<key>mainGroup</key>
 			<string>7DB346D0F39D3F0E887471402A8071AB</string>
 			<key>productRefGroup</key>
-			<string>C7628D06144417730BB7DAC2DF372605</string>
+			<string>A7D5DDF9140822FCF892608CE4144994</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -1035,8 +1988,9 @@
 			<string></string>
 			<key>targets</key>
 			<array>
-				<string>DC5A35203ADEFB9E2B759AAB21204A18</string>
-				<string>F2DC40A4B974473283E1035F44F6BFB0</string>
+				<string>663F3244653A7B0C2E2F5309892636A2</string>
+				<string>4FB0EFDA8DFB6ECBE6C57A8C0CFDB4CB</string>
+				<string>3DA351DB5FA9CB6CE66839E2B238A422</string>
 			</array>
 		</dict>
 		<key>D45B604668D0E02A7A4B471A371B974B</key>
@@ -1052,31 +2006,69 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DC5A35203ADEFB9E2B759AAB21204A18</key>
+		<key>D59155D95B9CCF13F9BF9632B0B33AA2</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>44D46EFEA376DBAC5BFEDC6928127A79</string>
-			<key>buildPhases</key>
+			<key>baseConfigurationReference</key>
+			<string>DE6634946F44CA27797E07258A458BB6</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string></string>
+				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
+				<string></string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>10.2</string>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
+				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>D67A9414C2DAE033F2BECD671AB469B6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>51498E299B7CB17BCC8B54F93C150FAA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D6C13FA9CA31F2C0EB940B00C9A21C7A</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>3DACD37E1A8C76C7934BC0F229F77A6A</string>
-				<string>39B42BE206C08FDFD7053E612263971B</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>F41CEE39D062EB22954A5E0F33A3EFDD</string>
+				<string>E86740299F1E71111E7643F23B96D1A9</string>
 			</array>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-test</string>
-			<key>productName</key>
-			<string>Pods-test</string>
-			<key>productReference</key>
-			<string>C8AFEECEFEF0A9A0DA653A8C0C19CB55</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>DE6634946F44CA27797E07258A458BB6</key>
 		<dict>
@@ -1091,31 +2083,43 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E080E73DA15F5BDDD231720A9440298A</key>
+		<key>E09377111B4713C4E758E0C963CDFCBA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3A7A5A7BA2EDFEBEAAFA0480EAA2D255</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>E38E14DF839327CC2589FC4C7690FDA1</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>30741701D18DE80EB0AC06F146173A89</string>
+				<string>8D69D1FBF6D5DB4ED241206176256B71</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Frameworks</string>
+			<string>Resources</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E4E40D445DC06EC171904B6F17F91161</key>
+		<key>E3E166FAE831A58C369A281C9244D7E2</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>SVRadialGradientLayer.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>SVProgressHUD/SVRadialGradientLayer.m</string>
+			<string>SVProgressHUD-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1201,6 +2205,82 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+		<key>E5462D88711E7C398BB71FEAC4A9F3B0</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>663F3244653A7B0C2E2F5309892636A2</string>
+			<key>remoteInfo</key>
+			<string>IQKeyboardManager</string>
+		</dict>
+		<key>E68202CFCBD027F28CFC3EA1BF9E0022</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>CBFE07CFC47298E99D2C4AC6C54AE648</string>
+				<string>CB27604DFAFB72AA6EE852EF78D9EAAD</string>
+				<string>62FEC6489743A6411B7D59B2EE52191D</string>
+				<string>68E0E2AC4962B924DCBC59241CE5E13D</string>
+				<string>7256101FC68C1BACEF2312CF25D27B6F</string>
+				<string>E831783081E1E91C150DA132964760CD</string>
+				<string>2B693038E97BEA8C0B4D81F59AB1B04D</string>
+				<string>A0DB3C4E05BE0ECFC9FFDE1CABE324C0</string>
+				<string>95AC7FD9F18610B95E2C708FB3D96123</string>
+				<string>84B0C37A70A90710C5A87639107A11A3</string>
+				<string>E762136B00706FEC2E3B9B874FFB1A36</string>
+				<string>19990C51A1961C4B0C317B703E5B862C</string>
+				<string>8402A6469214D1B5C72D9AC5F36D9DB4</string>
+				<string>B2ED89BD8EEA47E43BF7A5BCA4FB3C68</string>
+				<string>41FFD36DB0D327EE93CA8C92F579140C</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>E762136B00706FEC2E3B9B874FFB1A36</key>
+		<dict>
+			<key>fileRef</key>
+			<string>711EF1B3397CD762C1EAE41FC7C9E35A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E80A4484C93D8E797E6B1657B04D0228</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SVIndefiniteAnimatedView.h</string>
+			<key>path</key>
+			<string>SVProgressHUD/SVIndefiniteAnimatedView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E831783081E1E91C150DA132964760CD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6A028BB0EB8CC8E2E263CC4C1EADE839</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E86740299F1E71111E7643F23B96D1A9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6647ACC906E3FCEEFF3813BB32B1FCF6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>E8C0E404DA7A678E73F2280C64884592</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1214,18 +2294,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EEF526264214F87A7F80878AE638472A</key>
+		<key>EC1FD743D031D373EDF29CC526F758E2</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>UIKit.framework</string>
 			<key>path</key>
-			<string>BmobSDK.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>F1B89030F05ED857A6088494D0E32625</key>
+		<key>EC4C07E486AFC002459EE57F1078C598</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1234,91 +2316,215 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>SVRadialGradientLayer.h</string>
+			<string>IQBarButtonItem.h</string>
 			<key>path</key>
-			<string>SVProgressHUD/SVRadialGradientLayer.h</string>
+			<string>IQKeyboardManager/IQToolbar/IQBarButtonItem.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F2DC40A4B974473283E1035F44F6BFB0</key>
+		<key>ED98BFDE34A7F91DCBA7097E611AC512</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>987E2E98E906B6AE69B28BAC3866E237</string>
-			<key>buildPhases</key>
-			<array>
-				<string>B5EE14874AD9A2E45299FEB200101440</string>
-				<string>2ADA94D801D246EEF282A0BA19078703</string>
-				<string>A6BDABE7E8FDA01C0A04ABD26064782B</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>SVProgressHUD</string>
-			<key>productName</key>
-			<string>SVProgressHUD</string>
-			<key>productReference</key>
-			<string>BDE37FB3925E97D1AD69DDA390E84FD4</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
+			<string>IQTextView.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQTextView/IQTextView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F41CEE39D062EB22954A5E0F33A3EFDD</key>
+		<key>EFAC0C16DFF9A4045DAAF836FAD93BD0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQUITextFieldView+Additions.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUITextFieldView+Additions.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F01826DA8310EE11C2392858BAF7DE0B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQUIScrollView+Additions.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Categories/IQUIScrollView+Additions.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F26D1056733267D4355D0A9FA151E503</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>IQKeyboardManagerConstants.h</string>
+			<key>path</key>
+			<string>IQKeyboardManager/Constants/IQKeyboardManagerConstants.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F69B6807BD898A24924CE12CEB95FE94</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CB9B1F0249BE7B571BBC8796EE09FF7F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F719DE1D12272EDBBC7ADCD8F9B549ED</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2C1CC5EFC47F05BE21D2816BC19C6CF2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F8B00F72FD63B8C249E8B8C139EC3FF9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8CA17B9E6C93839BE8869C0C790AF415</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F973CBB7DD14DD97670D6AF6261F1FDF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>IQUIView+IQKeyboardToolbar.m</string>
+			<key>path</key>
+			<string>IQKeyboardManager/IQToolbar/IQUIView+IQKeyboardToolbar.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FBAED49CC7E185CD9FCA704362CD9895</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>EC4C07E486AFC002459EE57F1078C598</string>
+				<string>B6C201D867FDDA93B1B4D8ACEFEB771A</string>
+				<string>334A72CA88D119498A9142179D1261DE</string>
+				<string>054527EDD824857E8450741CA2D8EC11</string>
+				<string>F26D1056733267D4355D0A9FA151E503</string>
+				<string>20A3FD0B73DAB714E715C31637A8232F</string>
+				<string>502499E7783E4600570A715ABE3028E5</string>
+				<string>205B5A2F96592ABADFBBE0273CF6ABAC</string>
+				<string>8CA17B9E6C93839BE8869C0C790AF415</string>
+				<string>AB17E4064BAB0C3C450706473D2E1698</string>
+				<string>3A7A5A7BA2EDFEBEAAFA0480EAA2D255</string>
+				<string>6A028BB0EB8CC8E2E263CC4C1EADE839</string>
+				<string>D3F24EEA279C8639587D8F26D5BE7A8D</string>
+				<string>ED98BFDE34A7F91DCBA7097E611AC512</string>
+				<string>56D7A19D65ACD2C0BDE4D7C7E352A935</string>
+				<string>50A8BE781CA45E78A9B34444D70457AE</string>
+				<string>02567C4129A2FC170BFD4DACE1F3BC6F</string>
+				<string>23B294E95D885CBE71DA0F4C95FF0117</string>
+				<string>0993A442FD2A07085E47E1257B4CEF41</string>
+				<string>F01826DA8310EE11C2392858BAF7DE0B</string>
+				<string>EFAC0C16DFF9A4045DAAF836FAD93BD0</string>
+				<string>711EF1B3397CD762C1EAE41FC7C9E35A</string>
+				<string>4F5B093D4A8B4E256E67F64C214F02FE</string>
+				<string>01951E33CBC17EFFD4170691DD46614B</string>
+				<string>1BDFFBD66E1BED93B4240EA3B5D53856</string>
+				<string>F973CBB7DD14DD97670D6AF6261F1FDF</string>
+				<string>23B6A4EFD01F6770F25C826E3F8A89ED</string>
+				<string>4E8F5D530F9BE99DC0B359A7F5E76F55</string>
+				<string>727DB74A8AAAB919BCE196F2C74206BF</string>
+				<string>6196F3AECA5882259243B6D9332AE528</string>
+				<string>E38E14DF839327CC2589FC4C7690FDA1</string>
+				<string>8085F02D38C0C48D3133E68636EE14FB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>IQKeyboardManager</string>
+			<key>path</key>
+			<string>IQKeyboardManager</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FC157493A9F9F05EF88B411D9126C006</key>
+		<dict>
+			<key>fileRef</key>
+			<string>56D7A19D65ACD2C0BDE4D7C7E352A935</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>FC1D7EACA510CF6E302D0563BE364346</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>8F2365AAEBF04346330AEB4A0E8C0919</string>
+				<string>33D89B88F5CC620393076BA967363E31</string>
+				<string>B484F525AAFE33D26D99D985E5930654</string>
+				<string>C155C1CAEB49E1FF5D0629A596F30DF3</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>FCACF77CE30E207A5D291A4823CA4BCD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E80A4484C93D8E797E6B1657B04D0228</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>FD78626328276DC4E4486E3717D4B811</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXTargetDependency</string>
 			<key>name</key>
 			<string>SVProgressHUD</string>
 			<key>target</key>
-			<string>F2DC40A4B974473283E1035F44F6BFB0</string>
+			<string>3DA351DB5FA9CB6CE66839E2B238A422</string>
 			<key>targetProxy</key>
-			<string>2D17CBFF6B6759CBF2DD62E33A3596ED</string>
-		</dict>
-		<key>F48B9F39523219405E65C1F3C64E36D7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>DE6634946F44CA27797E07258A458BB6</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=appletvos*]</key>
-				<string></string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string></string>
-				<key>CODE_SIGN_IDENTITY[sdk=watchos*]</key>
-				<string></string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.2</string>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
+			<string>075840B3C80BC1C508132F8A0D089A6E</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

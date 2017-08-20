@@ -1,18 +1,21 @@
 PODS:
   - BmobSDK (2.2.1):
     - WechatOpenSDK (~> 1.7.7)
+  - IQKeyboardManager (4.0.11)
   - SVProgressHUD (2.1.2)
   - WechatOpenSDK (1.7.9)
 
 DEPENDENCIES:
   - BmobSDK
+  - IQKeyboardManager
   - SVProgressHUD
 
 SPEC CHECKSUMS:
   BmobSDK: 952f0ca736deae9d1b6591d72337df7d9072d4f2
+  IQKeyboardManager: 83eae5318483a34eb2069ef413d195b97605232e
   SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
   WechatOpenSDK: 1fe7e3b07db860d6a936c3ff4a5aba6b890958d9
 
-PODFILE CHECKSUM: a9a3e1676b5bcd592652b34ac66a09d2c84facdd
+PODFILE CHECKSUM: ffe2899b47af9fd56e1c20a233ca3925bdeeaf7f
 
 COCOAPODS: 1.1.1
