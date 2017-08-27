@@ -219,7 +219,7 @@
 				7480A01F1F496C6500274EC5 /* 首页 */,
 				7480A01E1F496C4600274EC5 /* 登录 */,
 				7480A01D1F496C3000274EC5 /* 排名 */,
-				E75297331F47FE5100A1B71B /* 答案 */,
+				E75297331F47FE5100A1B71B /* 答题 */,
 				E75296FB1F47CF9500A1B71B /* Main.storyboard */,
 				E75296FE1F47CF9500A1B71B /* Assets.xcassets */,
 				E75297001F47CF9500A1B71B /* LaunchScreen.storyboard */,
@@ -257,14 +257,14 @@
 			path = testUITests;
 			sourceTree = "<group>";
 		};
-		E75297331F47FE5100A1B71B /* 答案 */ = {
+		E75297331F47FE5100A1B71B /* 答题 */ = {
 			isa = PBXGroup;
 			children = (
 				7480A01B1F496B8700274EC5 /* tableView */,
 				E752972B1F47E12800A1B71B /* answerViewController.h */,
 				E752972C1F47E12800A1B71B /* answerViewController.m */,
 			);
-			name = "答案";
+			name = "答题";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

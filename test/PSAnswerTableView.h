@@ -8,8 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
+@protocol PSAnswerTableViewDelegate <NSObject>
+
+- (void)finishAnswerActivity;
+
+@end
+
 @interface PSAnswerTableView : UITableView <UITableViewDelegate, UITableViewDataSource>
-
+  
 @property (nonatomic, strong) NSArray *tableViewDataSource;
-
+@property (nonatomic, weak) id<PSAnswerTableViewDelegate> tableDelegate;
 @end

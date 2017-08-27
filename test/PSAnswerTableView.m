@@ -79,9 +79,14 @@ static int titleNum;
     if ([answerString isEqualToString:cell.textLabel.text]) {
         titleNum ++;
         if (titleNum == _tableViewDataSource.count) {
-            titleNum = 0;
-            [self reloadData];
-            [SVProgressHUD showSuccessWithStatus:@"答题完成"];
+            [[BmobUser currentUser] setObject:[NSString stringWithFormat:@"%d", titleNum] forKey:@"score"];
+            [[BmobUser currentUser] updateInBackgroundWithResultBlock:^(BOOL isSuccessful, NSError *error) {
+                if (isSuccessful) {
+                    [_tableDelegate finishAnswerActivity];
+                } else {
+                    NSLog(@"error %@",[error description]);
+                }
+            }];
         } else {
             [self reloadData];
         }
