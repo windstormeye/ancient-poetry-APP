@@ -10,6 +10,7 @@
 #import "PSAnswerTableViewCell.h"
 
 static int titleNum;
+static int score;
 
 @implementation PSAnswerTableView
 
@@ -27,7 +28,7 @@ static int titleNum;
 
 - (void)initView {
     titleNum = 0;
-    
+    score = 0;
     self.backgroundColor = [UIColor whiteColor];
     self.frame = CGRectMake(0, 64, SCREEN_WIDTH, SCREEN_HEIGHT - 64);
     self.delegate = self;
@@ -78,11 +79,12 @@ static int titleNum;
     NSString *answerString = _tableViewDataSource[titleNum][@"answer"];
     if ([answerString isEqualToString:cell.textLabel.text]) {
         titleNum ++;
+        score += 1;
         if (titleNum == _tableViewDataSource.count) {
             [[BmobUser currentUser] setObject:[NSString stringWithFormat:@"%d", titleNum] forKey:@"score"];
             [[BmobUser currentUser] updateInBackgroundWithResultBlock:^(BOOL isSuccessful, NSError *error) {
                 if (isSuccessful) {
-                    [_tableDelegate finishAnswerActivity];
+                    [_tableDelegate finishAnswerActivity:score];
                 } else {
                     NSLog(@"error %@",[error description]);
                 }
@@ -91,6 +93,7 @@ static int titleNum;
             [self reloadData];
         }
     } else {
+        score --;
         cell.cellTitleLabel.textColor = [UIColor redColor];
     }
 }

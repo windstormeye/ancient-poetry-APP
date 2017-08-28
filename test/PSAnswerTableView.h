@@ -10,7 +10,7 @@
 
 @protocol PSAnswerTableViewDelegate <NSObject>
 
-- (void)finishAnswerActivity;
+- (void)finishAnswerActivity:(int)score;
 
 @end
 

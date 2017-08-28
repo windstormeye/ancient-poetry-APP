@@ -89,11 +89,17 @@
 }
 
 // 弹出alertView代理方法
-- (void)finishAnswerActivity {
-    UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"答题完成" message:@"个人最佳成绩已更新" preferredStyle:UIAlertControllerStyleAlert];
+- (void)finishAnswerActivity:(int)score {
+    UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"答题完成" message:[NSString stringWithFormat:@"您本次总共获得了%d分", score] preferredStyle:UIAlertControllerStyleAlert];
     // 确定
     UIAlertAction *otherAction = [UIAlertAction actionWithTitle:@"确定" style:UIAlertActionStyleDefault handler:^(UIAlertAction *action) {
-        [self dismissViewControllerAnimated:YES completion:nil];
+        [self dismissViewControllerAnimated:YES completion:^{
+            BmobUser *bUser = [BmobUser currentUser];
+            [bUser setObject:[NSString stringWithFormat:@"%d", score] forKey:@"score"];
+            [bUser updateInBackgroundWithResultBlock:^(BOOL isSuccessful, NSError *error) {
+                NSLog(@"error %@",[error description]);
+            }];
+        }];
     }];
     
     [alertController addAction:otherAction];
